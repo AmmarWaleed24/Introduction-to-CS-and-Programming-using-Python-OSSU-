@@ -22,7 +22,7 @@ Below is the structured roadmap of the course. I use this to track my progress, 
 
 | Lecture | Topic | Status | Notes / Code |
 | :---: | :--- | :---: | :---: |
-| **01** | Introduction to Computation | 🟩 Completed | [Notes](./Lecture-Notes/lecture-01-intro.md) |
+| **01** | Introduction to Computation | 🟩 Completed | [Notes]([./Lecture-Notes/lecture-01-intro.md](https://github.com/AmmarWaleed24/Introduction-to-CS-and-Programming-using-Python-OSSU-/blob/main/Lecture-Notes/Lecture-01-intro.md)) |
 | **02** | Strings, Input/Output, Branching | 🟩 Completed | [Code](./Problem-Sets/) |
 | **03** | Iteration | 🟩 Completed | [Code](./Problem-Sets/) |
 | **04** | Loops over Strings, Guess-and-Check, Binary | 🟦 In Progress | [Code](./Problem-Sets/) |
